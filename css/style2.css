@@ -1,0 +1,7 @@
+body{
+    height:100vh;
+    margin: auto;
+    padding: 10px;
+    background-color: lightgrey !important;
+    perspective: 800px;
+}
